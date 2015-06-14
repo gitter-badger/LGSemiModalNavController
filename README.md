@@ -1,5 +1,7 @@
 # LGSemiModalNavController
 
+[![Join the chat at https://gitter.im/lukegeiger/LGSemiModalNavController](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lukegeiger/LGSemiModalNavController?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Version](https://img.shields.io/cocoapods/v/LGSemiModalNavController.svg?style=flat)](http://cocoapods.org/pods/LGSemiModalNavController)
 [![License](https://img.shields.io/cocoapods/l/LGSemiModalNavController.svg?style=flat)](http://cocoapods.org/pods/LGSemiModalNavController)
 [![Platform](https://img.shields.io/cocoapods/p/LGSemiModalNavController.svg?style=flat)](http://cocoapods.org/pods/LGSemiModalNavController)
